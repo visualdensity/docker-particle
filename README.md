@@ -4,9 +4,11 @@ Set this up so I can keep my Mac clean. This simply installs particle-cli accord
 https://docs.particle.io/guide/tools-and-features/cli/photon/
 
 Get it up and running:
+
     docker run -it visualdensity/particle /bin/bash
 
 Then just go nuts:
+
     particle setup
 
 Have fun!
